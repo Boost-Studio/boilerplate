@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate",
+  "name": "next-boilerplate-styled-ts",
   "private": true,
   "scripts": {
     "dev": "next dev",
